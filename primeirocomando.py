@@ -1,3 +1,7 @@
 print('Olá, Mundo')
 
-print()
+print(7+4)
+
+print('7' + '4')
+
+print('Olá', 5)

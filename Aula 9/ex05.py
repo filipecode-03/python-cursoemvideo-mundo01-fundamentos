@@ -1,2 +1,2 @@
 frase = 'Curso em Vídeo Python'
-print(frase[3])
+print(frase[1:15:2])
